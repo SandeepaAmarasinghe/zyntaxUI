@@ -156,6 +156,17 @@ pre code {
     letter-spacing: 0.5px;
     border: 2px solid var(--border-color) !important;
     transition: var(--transition);
+    padding: 0.5rem 1.25rem;
+}
+
+.btn-lg {
+    padding: 0.75rem 1.75rem !important;
+    font-size: 1.1rem !important;
+}
+
+.btn-sm {
+    padding: 0.35rem 0.85rem !important;
+    font-size: 0.8rem !important;
 }
 
 .btn-primary, .btn-success, .btn-warning, .btn-danger, .btn-secondary,
